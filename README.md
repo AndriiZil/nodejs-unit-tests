@@ -2,3 +2,4 @@
 
 * Mocha
 * Chai
+* Sinon
